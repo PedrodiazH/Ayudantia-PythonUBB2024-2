@@ -13,7 +13,6 @@ En este repositorio encontrarás:
   * [Matplotlib]
   * [Scikit-learn]
   * [Expresiones regulares](https://github.com/PedrodiazH/Ayudantia-PythonUBB2024-2/blob/main/Apuntes/M%C3%B3dulo_Expresiones_Regulares-re.pdf)
-  * [Módulo os y shutil] ----------------> [Ejemplos]
 * Material extra
 * Atajos a documentacion oficial
   * [Funciones incorporadas en Python](https://docs.python.org/es/3/library/functions.html)
